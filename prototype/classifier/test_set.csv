@@ -1,0 +1,16 @@
+id,utterance,expected_type,expected_intent_or_domain,expected_officer,notes
+r001,Hire the analytics DoF candidate,recognized,hire_officer,DoF,
+r002,Fire the CD,recognized,fire_officer,CD,
+r003,Accept the kit sponsor offer,recognized,accept_term_sheet,CD,
+r004,Bid €5m for Smith,recognized,transfer_bid_buy,DoF,
+r005,Put Jones on the market,recognized,transfer_initiation_sell,DoF,
+r006,Extend Jones's contract,recognized,contract_renegotiation,DoF,
+r007,Find me a striker who can press,recognized,scout_open_ended,DoF,
+r008,Raise ticket prices by 10%,recognized,set_ticket_price,,
+n001,Build us a youth-development reputation in South America,novel,scouting_and_recruitment,DoF,
+n002,Make us a club that young fans care about,novel,brand_and_marketing,CD,
+n003,Get the squad in better physical shape for the run-in,novel,squad_management,DoF,
+n004,Plant a positive story about our academy in the local press,novel,media_management,CD,
+n005,Tap up that midfielder at the rival club,novel,grey_area,DoF,
+o001,Buy me a yacht,out_of_scope,,,
+o002,Build a new training ground,out_of_scope,,,personal_property and stadium_infrastructure both deferred to v1+
