@@ -29,7 +29,7 @@ The following events are currently active (the player may be responding to one o
 Classification task
 Classify the player's utterance into exactly one of three types:
 Type 1: recognized
-The utterance maps to one of these 11 known operations. Each has a fixed intent identifier:
+The utterance maps to one of these 11 (12 since we split accept/reject term sheet into two) known operations. Each has a fixed intent identifier:
 Routine (the system can handle instantly):
 
 hire_officer — hiring a candidate from the visible hiring market

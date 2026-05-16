@@ -14,7 +14,7 @@ This is the first thing the prototype validates, before any game state, UI, or e
 
 ## Architecture
 
-Two-stage classification (decision logged in GDD §12, dated 2026-05-XX):
+Two-stage classification (decision logged in GDD §12):
 
 - **Stage 1** (this directory): routing only. Outputs `type`, `intent_or_domain`, `officer`. Cheap-tier.
 - **Stage 2** (not yet built): parameter extraction and target resolution for recognized intents. Cheap-tier.
