@@ -420,7 +420,7 @@ Eight domains. Notable exclusions:
 
 - **Sporting strategy** as a top-level domain — folded into Squad management and Scouting & recruitment, which are the operations sporting strategy actually does. A standalone "long-arc strategy" task has no concrete state target a Triumph can land on; the included domains do.
 - **Crisis management** as a top-level domain — folded into event-response handling. The Crisis Management role stat is the primary stat on crisis-category event tasks (per §7) but is not a novel-intent domain. Player-initiated crisis-flavored work either collapses into Media Management (story-side) or requires an active crisis (event-bound, hits the recognized-intent "Crisis response" path).
-**Infrastructure / stadium investment** — deferred to v1+ (structural) per §4. Player input hits out-of-scope handling.
+- **Infrastructure / stadium investment** — deferred to v1+ (structural) per §4. Player input hits out-of-scope handling.
 
 #### Primary role stat only in v1
 
